@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 body {
-    @apply bg-white text-darkSlateGrey font-roboto;
+    @apply bg-charcoalGrey text-darkSlateGrey font-roboto;
 }
